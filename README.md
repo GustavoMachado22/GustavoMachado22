@@ -1,10 +1,7 @@
 
 <img align="leaft" alt="Gif" height="300" width="1090" style="border-radius:50px;"  src="https://camo.githubusercontent.com/5dc6ee33381917e41fc9c4951799268998f11a9b864399bf79a0842e4f9b194d/68747470733a2f2f692e696d6775722e636f6d2f315a76566b44632e676966">
 
-<img align="right" alt="Gif" height="160em" style="border-radius:50px;" src="https://i.pinimg.com/originals/2c/2d/6f/2c2d6f89218cdb5c6a345d603484755f.gif"/>
-
-
-
+<div align="center">
   <a href="https://www.linkedin.com/in/gustavohmachado/">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=GustavoMachado22&show_icons=true&theme=dracula&include_all_commits=true&count_private=false"/> 
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoMachado22&layout=compact&langs_count=7&theme=dracula"/>
