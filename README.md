@@ -3,8 +3,8 @@
 
 <div align="center">
   <a href="https://www.linkedin.com/in/gustavohmachado/">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=GustavoMachado22&show_icons=true&theme=dracula&include_all_commits=true&count_private=false"/> 
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoMachado22&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GustavoMachado22&show_icons=true&theme=dracula&include_all_commits=true&count_private=false"/> 
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoMachado22&layout=compact&langs_count=7&theme=dracula"/>
 
 ### A little about me...  <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="60"> 
     
@@ -14,34 +14,39 @@
 ###  ⚙️ Some Tool and Tech I use
 </div>
 <div style="display: inline_block"><br>
-  <img align="center" alt="Ruby" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-plain-wordmark.svg">
-  <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Git" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg">      
-  <img align="center" alt="Robot" height="30" width="60" src="https://arctouch.com/wp-content/uploads/2021/02/robot-framework-test-automation-blog-1024x576.png">
-<img align="center" alt="Appium" height="40" width="60" src="https://www.testgrid.io/blog/wp-content/uploads/2021/05/appium.png">
-  
-<img align="center" alt="GitHub" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" />
-  
-<img align="center" alt="graphql" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain-wordmark.svg" />
-  
-<img align="center" alt="Heroku" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-original-wordmark.svg" />
-          
-<img align="center" alt="Rspec" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rspec/rspec-original-wordmark.svg" />
-         
-<img align="center" alt="Selenium" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" />
-  
-<img align="center" alt="Travis" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/travis/travis-plain-wordmark.svg" />
-          
-<img align="center" alt="Vscode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" />
     
-<img align="center" alt="Wp" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-plain.svg" />
+<img align="center" alt="Python" height="80" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   
-<img align="center" alt="Wp" height="30" width="30" src="https://seeklogo.com/images/I/insomnia-logo-A35E09EB19-seeklogo.com.png"/>
+<img align="center" alt="Ruby" height="80" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-plain-wordmark.svg"/>
   
+<img align="center" alt="graphql" height="90" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain-wordmark.svg"/>
   
-  <img align="center" alt="Wp" height="30" width="30" src="https://2.bp.blogspot.com/-tzm1twY_ENM/XlCRuI0ZkRI/AAAAAAAAOso/BmNOUANXWxwc5vwslNw3WpjrDlgs9PuwQCLcBGAsYHQ/s1600/pasted%2Bimage%2B0.png"/>
+<img align="center" alt="Robot" height="40" width="60" src="https://arctouch.com/wp-content/uploads/2021/02/robot-framework-test-automation-blog-1024x576.png"/>
+  
+<img align="center" alt="Git" height="80" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg"/>    
+
+<img align="center" alt="Appium" height="50" width="80" src="https://www.testgrid.io/blog/wp-content/uploads/2021/05/appium.png"/>
+  
+<img align="center" alt="Rspec" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rspec/rspec-original.svg"/>
+         
+<img align="center" alt="Selenium" height="80" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg"/>
+  
+<img align="center" alt="GitHub" height="40" width="40" src="https://cdn.icon-icons.com/icons2/2429/PNG/512/github_logo_icon_147285.png"/>
+  
+<img align="center" alt="Amazon" height="80" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg"/>
           
+<img align="center" alt="Heroku" height="80" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-original-wordmark.svg"/>
   
+<img align="center" alt="Travis" height="60" width="90" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/travis/travis-plain-wordmark.svg"/>
+          
+<img align="center" alt="Vscode" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg"/>
+    
+<img align="center" alt="Insomnia" height="40" width="40" src="https://seeklogo.com/images/I/insomnia-logo-A35E09EB19-seeklogo.com.png"/>
+  
+<img align="center" alt="Android Studio" height="40" width="40" src="https://2.bp.blogspot.com/-tzm1twY_ENM/XlCRuI0ZkRI/AAAAAAAAOso/BmNOUANXWxwc5vwslNw3WpjrDlgs9PuwQCLcBGAsYHQ/s1600/pasted%2Bimage%2B0.png"/>
+  
+<img align="center" alt="Wp" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-plain.svg"/>
+          
 </div>
   
   ## 📫 How to reach me?
