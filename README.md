@@ -4,7 +4,7 @@
 <img align="right" alt="Gif" height="160em" style="border-radius:50px;" src="https://i.pinimg.com/originals/2c/2d/6f/2c2d6f89218cdb5c6a345d603484755f.gif"/>
 
 
-<div align="center">
+
   <a href="https://www.linkedin.com/in/gustavohmachado/">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=GustavoMachado22&show_icons=true&theme=dracula&include_all_commits=true&count_private=false"/> 
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoMachado22&layout=compact&langs_count=7&theme=dracula"/>
