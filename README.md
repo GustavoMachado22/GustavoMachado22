@@ -11,6 +11,10 @@
 
 ### A little about me...  <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="60"> 
     
+ </div>
+  
+ </div>
+    
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Ruby" height="30" width="100" src="https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white">
@@ -27,6 +31,4 @@
  <div> 
    
 ![Snake animation](https://github.com/GustavoMachado22/GustavoMachado22/blob/output/github-contribution-grid-snake.svg)
-
    
-<img align="right" alt="Gif" height="180" width="215" style="border-radius:50px;" src="https://cdn.dribbble.com/users/1646023/screenshots/6625629/gamer_800x600.gif">
