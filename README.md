@@ -41,9 +41,23 @@
 <img align="center" alt="Insomnia" height="40" width="40" src="https://seeklogo.com/images/I/insomnia-logo-A35E09EB19-seeklogo.com.png"/>
   
 <img align="center" alt="Android Studio" height="40" width="40" src="https://2.bp.blogspot.com/-tzm1twY_ENM/XlCRuI0ZkRI/AAAAAAAAOso/BmNOUANXWxwc5vwslNw3WpjrDlgs9PuwQCLcBGAsYHQ/s1600/pasted%2Bimage%2B0.png"/>
-  
-          
+       
 </div>
+ 
+  <details>	
+  <br />
+  <summary><b>⚙️ Things I use to get stuff done</b></summary>
+  	<ul>
+  	  <li><b>OS:</b> macOS Monterey 12.1</li>
+	    <li><b>Laptop: </b> MacBook Pro (15-inch, 2019)</li>
+  	  <li><b>CPU: </b> 2,3 GHz Intel Core i9 8-Core</li>
+	    <li><b>GPU: </b> Intel UHD Graphics 630 1536 MB</li>
+	    <li><b>RAM:</b> 16 GB 2400 MHz DDR4</li>
+      <li><b>To Stay Updated:</b> Linkedin, Youtube and Medium.</li>
+	</ul>	
+</details>
+  
+  
   
   ## 📫 How to reach me?
 <div> 
