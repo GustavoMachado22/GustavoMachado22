@@ -46,10 +46,10 @@
  
   <details>	
   <br />
-  <summary><b>⚙️ Things I use to get stuff done</b></summary>
+  <summary><b>🖥️ Meu DevSetup</b></summary>
   	<ul>
   	  <li><b>OS:</b> macOS Monterey 12.1</li>
-	    <li><b>Laptop: </b> MacBook Pro (15-inch, 2019)</li>
+	  <li><b>Laptop: </b> MacBook Pro (15-inch, 2019)</li>
   	  <li><b>CPU: </b> 2,3 GHz Intel Core i9 8-Core</li>
 	    <li><b>GPU: </b> Intel UHD Graphics 630 1536 MB</li>
 	    <li><b>RAM:</b> 16 GB 2400 MHz DDR4</li>
