@@ -60,7 +60,7 @@
 	
 <details>
   <br />
-   <summary><b>🖥️ Meu DevSetup</b></summary>
+   <summary><b>🖥️ DevSetup</b></summary>
   	<ul>
   	  <li><b>OS:</b> macOS Monterey 12.1</li>
 	  <li><b>Laptop: </b> MacBook Pro (15-inch, 2019)</li>
