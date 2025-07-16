@@ -1,9 +1,6 @@
 
-<img align="leaft" alt="Gif" height="300" width="1090" style="border-radius:50px;"  src="https://camo.githubusercontent.com/0bc88fe1a37c792f8a62e1b770b0b39e886405c1043d59a43fd0a7c27c2688b2/68747470733a2f2f692e696d6775722e636f6d2f315a76566b44632e676966">
-
 <div align="center">
-<img height="150em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=GustavoMachado22&theme=radical"/> 
-<img height="150em" src="https://github-readme-stats.vercel.app/api?username=GustavoMachado22&show_icons=true&theme=radical&include_all_commits=true&count_private=false&hide_border=true"/> <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoMachado22&layout=compact&langs_count=7&theme=radical&hide_border=true"/> <img height="150em" src="https://github-readme-streak-stats.herokuapp.com/?user=GustavoMachado22&theme=radical&hide_border=true"/>
+
 	 	  	  
 ### A little about me...  <img src="https://media.giphy.com/media/eJjBP5o1N8tR7Hem2g/giphy.gif" width="80"> 
     A passionate developer, currently working as Software QA Engineer at Zé Delivery
@@ -30,15 +27,20 @@
 
 ![Mac OS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white) 
 	
-<img src="https://media.giphy.com/media/0TtX2qqpxp3pIafzio/giphy.gif" width="250"> 
-	  
- </div>
-  
+<img src="https://media.giphy.com/media/0TtX2qqpxp3pIafzio/giphy.gif" width="250"></b>	 
 
-  <div align="leaft">
+<img height="150em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=GustavoMachado22&theme=radical"/> 
+<img height="150em" src="https://github-readme-stats.vercel.app/api?username=GustavoMachado22&show_icons=true&theme=radical&include_all_commits=true&count_private=false&hide_border=true"/> <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoMachado22&layout=compact&langs_count=7&theme=radical&hide_border=true"/> <img height="150em" src="https://github-readme-streak-stats.herokuapp.com/?user=GustavoMachado22&theme=radical&hide_border=true"/>
+</n>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gustavomachado22/gustavomachado22/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/gustavomachado22/gustavomachado22/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/gustavomachado22/gustavomachado22/output/pacman-contribution-graph.svg">
+</picture>
 
-  
- ## 📫 How to reach me?
+</div>
+<div align="leaft">
+## 📫 How to reach me?
 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gustavohmachado/)
@@ -53,10 +55,7 @@
   	  <li><b>CPU: </b> 2,3 GHz Intel Core i9 8-Core</li>
 	    <li><b>GPU: </b> Intel UHD Graphics 630 1536 MB</li>
 	    <li><b>RAM:</b> 16 GB 2400 MHz DDR4</li>
-      <li><b>To Stay Updated:</b> Linkedin, Youtube and Medium.</li>
 	</ul>	
 </details>
 
-
-![Snake animation](https://github.com/GustavoMachado22/GustavoMachado22/blob/output/github-contribution-grid-snake.svg)
    
